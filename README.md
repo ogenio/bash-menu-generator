@@ -30,9 +30,3 @@ Configuration
 - **lineLength** - How wide the menu should be
 - **charsToOption** - How much padding you want from the sides of the menu
 - **charsToName** - How much padding you want around the text
-
-Developed By
-=================
-
-* Jamie Cruwys - <me@jamiecruwys.co.uk>
-
