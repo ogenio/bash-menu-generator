@@ -7,7 +7,7 @@
 #
 
 # Configuration
-symbol="*"
+symbol="_"
 paddingSymbol=" "
 lineLength=70
 charsToOption=1
